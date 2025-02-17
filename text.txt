@@ -5,3 +5,4 @@ Final
 from task1
 from task2
 from task2.0
+from task3
